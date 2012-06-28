@@ -1,0 +1,1 @@
+openAura = GM; DeriveGamemode("openaura");

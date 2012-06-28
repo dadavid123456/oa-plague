@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"name"			"Plague"
+	"info"			"Witness the rise of the damned"
+	"version"		"1.0"
+	"author_name"	"Mark Simon"
+}
